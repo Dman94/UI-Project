@@ -1,0 +1,18 @@
+<Localization>
+ <entry>
+   <Key> Title  </Key>
+   <Value> 主菜单 </Value> 
+ </entry>  
+ <entry>
+   <Key> Start  </Key>
+   <Value> 开始 </Value> 
+ </entry>  
+ <entry>
+   <Key> Options  </Key>
+   <Value> 选项</Value> 
+ </entry>  
+ <entry>
+   <Key> Quit  </Key>
+   <Value> 辞职 </Value> 
+ </entry>  
+</Localization>

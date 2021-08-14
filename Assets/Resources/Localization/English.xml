@@ -1,0 +1,34 @@
+<Localization>
+ <entry>
+   <Key> Title  </Key>
+   <Value> UI Main Menu </Value> 
+ </entry>  
+ <entry>
+   <Key> Start  </Key>
+   <Value> Start </Value> 
+ </entry>  
+ <entry>
+   <Key> Options  </Key>
+   <Value> Options</Value> 
+ </entry>  
+ <entry>
+   <Key> Quit  </Key>
+   <Value> Quit </Value> 
+ </entry>
+  <entry>
+    <Key> Options Menu  </Key>
+    <Value>  Options Menu  </Value>
+  </entry>
+  <entry>
+    <Key> Video Options  </Key>
+    <Value> Video Options  </Value>
+  </entry>
+  <entry>
+    <Key> Audio Options   </Key>
+    <Value> Audio Options </Value>
+  </entry>
+  <entry>
+    <Key> Back   </Key>
+    <Value> Back </Value>
+  </entry>
+</Localization>
